@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ideal Kilo Hesapla</string>
+    <string name="kilo_tv">50 kg</string>
+    <string name="ideal_tv"> </string>
+    <string name="durum_tv"> </string>
+    <string name="yagsizagirlik_tv"> </string>
+    <string name="vya_tv"> </string>
+    <string name="vki_tv"> </string>
+    <string name="zayif">Zayıf</string>
+    <string name="ideal">İdeal</string>
+    <string name="fazlakilolu">Fazla kilolu</string>
+    <string name="obez1">I.derece Obez</string>
+    <string name="obez2">II.derece Obez</string>
+    <string name="obez3">III.derece Morbid Obez</string>
+</resources>
