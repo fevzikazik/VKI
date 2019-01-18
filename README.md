@@ -1,16 +1,16 @@
 # VKI
 Java Ödevi Android Studio ile İdeal Kilo ve  Diğer Bilgileri Hesaplaması
 
-![T3](https://lh3.googleusercontent.com/wFqDneA35gDQQSHc6VlC-z0og5htd-7DGTy29qBsKCm4phOZ29jqXDUoQzbwh_36Rfe-_vLTZDLc_odWn0Rk=w1920-h938)
+![T3](http://drive.google.com/uc?export=view&id=18qUhaPZOBtt8ndIylBqAX3TK-WDlWdSY)
 
-![T3](https://lh5.googleusercontent.com/FCecRLrZHHJMR4MEWcLlHcCBOqeX3oN7s2-Y_q-s1F1v6bKEqWb-1MJtPOuvGwIR5cMyya1XJ0g26yQSjggS=w1920-h938)
+![T3](http://drive.google.com/uc?export=view&id=1gLx0IBQhbp2-D8rGm-6F2mwvTCP1qTSc)
 
-![T3](https://lh4.googleusercontent.com/4OeTlQnQ5_8hG35WCjeQU6fTb0qwoQa4cQPRq-N9tpyWisrTnBqdOdLB9wN5ddd4UXMnPVrjBHw8AfK2o3v0=w1920-h938-rw)
+![T3](http://drive.google.com/uc?export=view&id=1FCEFR1mr78-hJzMbB19ej94_Mdq2YWc8)
 
-![T3](https://lh4.googleusercontent.com/6jHBmJkUx-z1RvZGitJhx-TR8jxTV5_LPEkSY80p9VaboAebm6xbZ0UW42X9jh5pxLRBawSeF53eMCJP3hE7=w1920-h938)
+![T3](http://drive.google.com/uc?export=view&id=1YxPUT0xl5GNtwPMrdS0K5VlhywhrikdP)
 
-![T3](https://lh6.googleusercontent.com/H7npb5kD1UHIK6p2pEvkJA2Ascs8SjmbveDiSTUUztmhwu2Orac7_45shIwzC4mgRYCWeXrsxcdbrmEn2zks=w1920-h938)
+![T3](http://drive.google.com/uc?export=view&id=1dvXf7flaIfhzcTacL91RHbnYFUMpIq20)
 
-![T3](https://lh5.googleusercontent.com/1w9LspfO8S5DR7NrcqUJRsiZzcv2vewLoBpnP-uwBsQMgPB_QNJK8pI6UGasRJ-9XoPiyKChfc4K7g1x_Zv4=w1920-h938)
+![T3](http://drive.google.com/uc?export=view&id=1OSI5gwc3qYK9ZeqVDcLnbDFF_08ciBIG)
 
-![T3](https://lh4.googleusercontent.com/jU6dNOLmCmSA41itQg9XBSAU4WAkbeBFUXWFxyHJVTyNrOF3ANzdm9T3I3s2nLxSDAczq0f-mAn4fvIHIHnp=w1920-h938)
+![T3](http://drive.google.com/uc?export=view&id=1WDlAW0Z_ksOQrldDmVFIazWw_RK8W1Zl)
